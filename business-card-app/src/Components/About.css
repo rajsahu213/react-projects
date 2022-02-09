@@ -1,0 +1,14 @@
+.about {
+    margin: 0.5rem 3.3rem;
+}
+
+.about h3 {
+    color: #f5f5f5;
+    font-size: 18px;
+}
+
+.about p {
+    color: #dcdcdc;
+    font-size: 12px;
+    line-height: 150%;
+}
